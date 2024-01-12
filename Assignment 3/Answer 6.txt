@@ -1,0 +1,27 @@
+Advantages of using OO
+1. more flexible for future addition
+2. can be used for bundling related data
+Advantages of using Dictionaries
+1. they are faster
+2. literal syntax, can directly start writing a dict without setting up a class.
+
+
+Disadvantage of using OO
+1. not universal, cannot be used everywhere or in all languages.
+2. slower as comapred to dictionaries
+
+Disadvantage of using dictionaries
+1. keys are immutable
+2. they are unordered
+
+Performance comparison for grading operation (give in each line: value of N; time taken by two approaches in seconds, and which is faster and by how much).
+1. N: 1000
+2. Time by OO: 19.08109908703003 seconds
+3. Time by dictionary: 0.7412159442901611
+4. X is faster; fraction of time x took is: Dictionary; took 0.0399455582 time of the time taken by OO.
+
+Performance comparison for search operation (give in each line: value of N; time taken by two approaches in seconds, and which is faster and by how much).
+1. N: 50
+2. Time by OO: 1.0042271614074707
+3. Time by dictionary: 0.05801105499267578
+4. X is faster; fraction of time x took is: Dictionary; took 0.0577668651 time of the time taken by OO.
